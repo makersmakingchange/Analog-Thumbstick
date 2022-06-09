@@ -1,8 +1,7 @@
 # Analog-Joystick
 An analog joystick that can be used with the Xbox Adaptive Controller (XAC)
 
-![step 10](https://user-images.githubusercontent.com/98916090/172956693-55fd8b4e-8917-47de-aaf2-e7ca460ad18b.jpg)
-
+![image](https://user-images.githubusercontent.com/98916090/172956824-ecd7ae2e-b37d-4a08-b57a-bf0085d57932.png)
 
 
 ## More info at
