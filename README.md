@@ -1,4 +1,4 @@
-# Analog-Joystick
+# Analog Thumbstick
 An analog joystick that can be used with the Xbox Adaptive Controller (XAC)
 
 ![image](https://user-images.githubusercontent.com/98916090/172956824-ecd7ae2e-b37d-4a08-b57a-bf0085d57932.png)
