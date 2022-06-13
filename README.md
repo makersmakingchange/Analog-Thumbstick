@@ -1,5 +1,5 @@
 # Analog Thumbstick
-An analog joystick that can be used with the Xbox Adaptive Controller (XAC)
+An analog thumbstick that can be used with the Xbox Adaptive Controller (XAC)
 
 ![image](https://user-images.githubusercontent.com/98916090/172956824-ecd7ae2e-b37d-4a08-b57a-bf0085d57932.png)
 
@@ -26,17 +26,18 @@ If you have the skills and equipment to build this device, and would like to don
 ### Documentation
 | Document             | Version | Link                                                                                  |
 |----------------------|---------|---------------------------------------------------------------------------------------|
-| Maker Checklist      | 1.0     | [Maker Checklist](/Documentation/Analog_Joystick_Maker_Checklist_v1.0.pdf)         |
-| Bill of Materials    | 1.0     | [BOM](/Documentation/Analog_Joystick_BOM_V1.0.xlsx)                                |
-| 3D Printing Guide    | 1.0     | [3D Printing Guide](Documentation/Analog_Joystick_3D_Printing_Guide_v1.0.pdf)             |
-| Assembly Guide       | 1.0     | [Assembly Guide](/Documentation/Analog_Joystick_Assembly_Guide_v1.0.pdf)           |      
-| User Quick Guide     | 1.0     | [Quick_Guide](/Documentation/Analog_Joystick_User_Guide_v1.0.pdf)                  |
+| Maker Checklist      | 1.0     | [Maker Checklist](/Documentation/Analog_Thumbstick_Maker_Checklist_v1.0.pdf)         |
+| Bill of Materials    | 1.0     | [BOM](/Documentation/Analog_Thumbstick_BOM_V1.0.xlsx)                                |
+| 3D Printing Guide    | 1.0     | [3D Printing Guide](Documentation/Analog_Thumbstick_3D_Printing_Guide_v1.0.pdf)      |
+| Assembly Guide       | 1.0     | [Assembly Guide](/Documentation/Analog_Thumbstick_Assembly_Guide_v1.0.pdf)           |  
+| Design Rationale     | 1.0     | [Design Rationale](/Documentation/Analog_Thumbstick_Design_Rationale_v1.0.pdf)       |
+| User Quick Guide     | 1.0     | [User Guide](/Documentation/Analog_Thumbstick_User_Guide_v1.0.pdf)                  |
 
 
 ## Attribution 
 
-Joystick designed by Ron Nelson
-3D printed joystick housing designed by Kerilyn Kennedy - Makers Making Change.
+3D printed joystick housing designed by Kerilyn Kennedy - Makers Making Change, inspired by Ron Nelson.
+
 Documentation created by Neil Squire / Makers Making Change.
 
  
