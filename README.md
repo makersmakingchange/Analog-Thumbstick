@@ -26,11 +26,11 @@ If you have the skills and equipment to build this device, and would like to don
 ### Documentation
 | Document             | Version | Link                                                                                  |
 |----------------------|---------|---------------------------------------------------------------------------------------|
-| Maker Checklist      | 1.0     | [Maker Checklist](/Documentation/Analog_Thumbstick_Maker_Checklist_v1.0.pdf)         |
-| Bill of Materials    | 1.0     | [BOM](/Documentation/Analog_Thumbstick_BOM_V1.0.xlsx)                                |
-| 3D Printing Guide    | 1.0     | [3D Printing Guide](Documentation/Analog_Thumbstick_3D_Printing_Guide_v1.0.pdf)      |
-| Assembly Guide       | 1.0     | [Assembly Guide](/Documentation/Analog_Thumbstick_Assembly_Guide_v1.0.pdf)           |  
-| Design Rationale     | 1.0     | [Design Rationale](/Documentation/Analog_Thumbstick_Design_Rationale_v1.0.pdf)       |
+| Maker Checklist      | 1.0     | [Maker Checklist](/Documentation/Analog_Thumbstick_Maker_Checklist.pdf)         |
+| Bill of Materials    | 1.0     | [BOM](/Documentation/Working_Documents/Analog_Thumbstick_BOM.xlsx)                                |
+| 3D Printing Guide    | 1.0     | [3D Printing Guide](Documentation/Analog_Thumbstick_3D_Printing_Guide.pdf)      |
+| Assembly Guide       | 1.0     | [Assembly Guide](/Documentation/Analog_Thumbstick_Assembly_Guide.pdf)           |  
+| Design Rationale     | 1.0     | [Design Rationale](/Documentation/Analog_Thumbstick_Design_Rationale.pdf)       |
 | User Quick Guide     | 1.0     | [User Guide](/Documentation/Analog_Thumbstick_User_Guide_v1.0.pdf)                  |
 
 
