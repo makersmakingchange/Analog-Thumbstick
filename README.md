@@ -1,5 +1,5 @@
 # Analog Thumbstick
-[!IMPORTANT]
+> [!IMPORTANT]
 Update: 2026-Jan-09. This device has been superceded by the [Aspen Sliding Joystick](https://github.com/makersmakingchange/Aspen-Sliding-Joystick).
 
 An analog thumbstick that can be used with the Xbox Adaptive Controller (XAC)
